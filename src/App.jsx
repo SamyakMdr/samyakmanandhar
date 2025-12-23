@@ -19,10 +19,6 @@ const App = () => {
         <About />
         <Contact />
         <Footer />
-        {/* Main content with routes */}
-        {/* <Routes>
-          <Route path="/portfolio" element={<Portfolio />} />
-        </Routes> */}
       </div>
     </div>
   );
