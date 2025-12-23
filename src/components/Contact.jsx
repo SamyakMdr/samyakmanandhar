@@ -65,7 +65,7 @@ const Contact = () => {
                   href="https://mail.google.com/mail/?view=cm&fs=1&to=samyak11manandhar@gmail.com"
                 >
                   <img
-                    src="/public/icons/gmail.png"
+                    src="/icons/gmail.png"
                     alt="gmail-icon"
                     className="w-8 h-8"
                   />
@@ -78,7 +78,7 @@ const Contact = () => {
                   href="https://www.facebook.com/samyak.manandhar.10"
                 >
                   <img
-                    src="/public/icons/facebook.png"
+                    src="/icons/facebook.png"
                     alt="facebook-icon"
                     className="w-8 h-8"
                   />
@@ -91,7 +91,7 @@ const Contact = () => {
                   href="https://www.instagram.com/sayami_samyak"
                 >
                   <img
-                    src="/public/icons/instagram.png"
+                    src="/icons/instagram.png"
                     alt="instagram-icon"
                     className="w-8 h-8"
                   />
@@ -104,7 +104,7 @@ const Contact = () => {
                   href="https://www.linkedin.com/in/samyak-manandhar/"
                 >
                   <img
-                    src="/public/icons/linkedin.png"
+                    src="/icons/linkedin.png"
                     alt="linkedin-icon"
                     className="w-8 h-8"
                   />
@@ -117,7 +117,7 @@ const Contact = () => {
                   href="https://github.com/SamyakMdr"
                 >
                   <img
-                    src="/public/icons/github-mark.png"
+                    src="/icons/github-mark.png"
                     alt="github-icon"
                     className="w-8 h-8"
                   />
@@ -130,7 +130,7 @@ const Contact = () => {
                   href="https://www.behance.net/samyakmanandhar2"
                 >
                   <img
-                    src="/public/icons/behance.png"
+                    src="/icons/behance.png"
                     alt="behance-icon"
                     className="w-8 h-8"
                   />

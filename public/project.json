@@ -3,14 +3,14 @@
     {
       "id": 1,
       "title": "Pokemon Battle",
-      "image": "./public/portfolio/pokemon.PNG",
+      "image": "/portfolio/pokemon.PNG",
       "shortDescription": "Interactive Pokémon battle app with Pokédex, stats, and turn-based combat",
       "fullDescription": "A React-based web application that implements a Pokédex-style listing with real-time search and filtering, detailed Pokémon stat visualization, and a turn-based battle simulation system. The project follows a component-driven architecture, uses efficient state management for battle logic, and delivers a fully responsive UI optimized for smooth interactions across devices.",
       "technologies": [
-        { "name": "HTML", "icon": "/public/skills/html.png" },
-        { "name": "CSS", "icon": "/public/skills/css.png" },
-        { "name": "JavaScript", "icon": "/public/skills/js.png" },
-        { "name": "React.js", "icon": "/public/skills/react.png" }
+        { "name": "HTML", "icon": "/skills/html.png" },
+        { "name": "CSS", "icon": "/skills/css.png" },
+        { "name": "JavaScript", "icon": "/skills/js.png" },
+        { "name": "React.js", "icon": "/skills/react.png" }
       ],
       "liveUrl": "https://pokemon-battle-hp.netlify.app/",
       "githubUrl": "https://github.com/SamyakMdr/Pokemon",
@@ -28,13 +28,13 @@
     {
       "id": 2,
       "title": "Hills and Horizon Flims",
-      "image": "/public/portfolio/hillsandhorizon.png",
+      "image": "/portfolio/hillsandhorizon.PNG",
       "shortDescription": "A Minimalist, Media-Focused Website for a Creative Production House",
       "fullDescription": "Hills & Horizon's website showcases a minimalist, visually-driven design perfect for a production house. The layout emphasizes full-bleed media, with a clean color scheme and bold typography keeping focus on their portfolio. Smooth navigation, hover effects, and responsive grids enhance UX, while subtle animations add polish. Though effective, stronger CTAs and project case studies could further boost engagement. The site successfully merges aesthetics with functionality, reflecting professional creative standards.",
       "technologies": [
-        { "name": "HTML", "icon": "/public/skills/html.png" },
-        { "name": "CSS", "icon": "/public/skills/css.png" },
-        { "name": "JavaScript", "icon": "/public/skills/js.png" }
+        { "name": "HTML", "icon": "/skills/html.png" },
+        { "name": "CSS", "icon": "/skills/css.png" },
+        { "name": "JavaScript", "icon": "/skills/js.png" }
       ],
       "liveUrl": "https://hillsandhorizon.com.np/",
       "githubUrl": "https://github.com/SamyakMdr/horizon",
@@ -52,15 +52,15 @@
     {
       "id": 3,
       "title": "Travelease",
-      "image": "./portfolio/travese.PNG",
+      "image": "/portfolio/travese.PNG",
       "shortDescription": "All-in-one travel platform for seamless journey planning",
       "fullDescription": "Travelease is an all-in-one travel platform designed to simplify your journey from planning to booking. It features curated destinations—ranging from serene landscapes to adventurous escapes—with tour cards that include images, details, pricing, duration, and an easy reserve button. Behind the scenes, a secure admin dashboard allows authorized users to manage travel listings by adding, editing, or removing packages, keeping the platform updated and reliable for every traveler.",
       "technologies": [
-        { "name": "HTML", "icon": "/public/skills/html.png" },
-        { "name": "CSS", "icon": "/public/skills/css.png" },
-        { "name": "JavaScript", "icon": "/public/skills/js.png" },
-        { "name": "Php", "icon": "/public/skills/php.png" },
-        { "name": "MySQL", "icon": "../../public/skills/mysql.png" }
+        { "name": "HTML", "icon": "/skills/html.png" },
+        { "name": "CSS", "icon": "/skills/css.png" },
+        { "name": "JavaScript", "icon": "/skills/js.png" },
+        { "name": "Php", "icon": "/skills/php.png" },
+        { "name": "MySQL", "icon": "/skills/mysql.png" }
       ],
       "liveUrl": "https://travelease-demo.com",
       "githubUrl": "https://github.com/SamyakMdr",
@@ -78,15 +78,15 @@
     {
       "id": 4,
       "title": "Book Hive",
-      "image": "../../public/portfolio/bookhive.PNG",
+      "image": "/portfolio/bookhive.PNG",
       "shortDescription": "Secondhand site for buying and selling books",
       "fullDescription": "Book Hive is a Book store which sell books. Book Hive helps in second hand book buying and selling. This helps in minimizing the paper waste and helps in maintaining the environment. The buyer can directly contact the seller by loging in to the account and view the sellers details. And seller and can post number of book that he/she wants to sell.",
       "technologies": [
-        { "name": "HTML", "icon": "/public/skills/html.png" },
-        { "name": "CSS", "icon": "/public/skills/css.png" },
-        { "name": "JavaScript", "icon": "/public/skills/js.png" },
-        { "name": "Php", "icon": "/public/skills/php.png" },
-        { "name": "MySQL", "icon": "../../public/skills/mysql.png" }
+        { "name": "HTML", "icon": "/skills/html.png" },
+        { "name": "CSS", "icon": "/skills/css.png" },
+        { "name": "JavaScript", "icon": "/skills/js.png" },
+        { "name": "Php", "icon": "/skills/php.png" },
+        { "name": "MySQL", "icon": "/skills/mysql.png" }
       ],
       "liveUrl": "http://samyakmanandhar.atwebpages.com/",
       "githubUrl": "https://github.com/SamyakMdr",
@@ -104,15 +104,15 @@
     {
       "id": 5,
       "title": "Project Foodmandu",
-      "image": "../../public/portfolio/Capture-2.JPG",
+      "image": "/portfolio/Capture-2.JPG",
       "shortDescription": "Your Gateway to Delicious Experiences",
       "fullDescription": "Foodmandu is a vibrant and interactive website project designed to bring delightful dining experiences to your fingertips. With a modern, responsive design, it features an elegant collapsible navbar, a captivating carousel banner, and well-organized sections for dinner specials, recipe galleries, and reservations.",
       "technologies": [
-        { "name": "HTML", "icon": "/public/skills/html.png" },
-        { "name": "CSS", "icon": "/public/skills/css.png" },
-        { "name": "JavaScript", "icon": "/public/skills/js.png" },
-        { "name": "Bootstrap", "icon": "../../public/skills/bootstrap.png" },
-        { "name": "JQuery", "icon": "/public/skills/jquery.png" }
+        { "name": "HTML", "icon": "/skills/html.png" },
+        { "name": "CSS", "icon": "/skills/css.png" },
+        { "name": "JavaScript", "icon": "/skills/js.png" },
+        { "name": "Bootstrap", "icon": "/skills/bootstrap.png" },
+        { "name": "JQuery", "icon": "/skills/jquery.png" }
       ],
       "liveUrl": "https://samyakmdr.github.io/website/project%202/index.html",
       "githubUrl": "https://github.com/SamyakMdr/website/tree/main/project%202",
@@ -129,15 +129,15 @@
     {
       "id": 6,
       "title": "Bhadakuda Nepal",
-      "image": "../../public/portfolio/Capture-3.JPG",
+      "image": "/portfolio/Capture-3.JPG",
       "shortDescription": "User-friendly e-commerce platform that focuses on providing high-quality kitchen tools.",
       "fullDescription": "Bhadakuda Nepal is an innovative and user-friendly e-commerce platform that focuses on providing high-quality kitchen tools and accessories for home chefs and cooking enthusiasts. With a wide variety of products, from cookware to kitchen gadgets, Bhadakuda Nepal aims to enhance the cooking experience for its users. The website is designed with a focus on simplicity, ensuring a smooth and hassle-free shopping experience for everyone, regardless of their technical expertise.",
       "technologies": [
-        { "name": "HTML", "icon": "/public/skills/html.png" },
-        { "name": "CSS", "icon": "/public/skills/css.png" },
-        { "name": "JavaScript", "icon": "/public/skills/js.png" },
-        { "name": "Bootstrap", "icon": "../../public/skills/bootstrap.png" },
-        { "name": "JQuery", "icon": "/public/skills/jquery.png" }
+        { "name": "HTML", "icon": "/skills/html.png" },
+        { "name": "CSS", "icon": "/skills/css.png" },
+        { "name": "JavaScript", "icon": "/skills/js.png" },
+        { "name": "Bootstrap", "icon": "/skills/bootstrap.png" },
+        { "name": "JQuery", "icon": "/skills/jquery.png" }
       ],
       "liveUrl": "https://samyakmdr.github.io/website/Project%203/index.html",
       "githubUrl": "https://github.com/SamyakMdr/website/tree/main/Project%203",
@@ -153,13 +153,13 @@
     {
       "id": 7,
       "title": "Mole Hole Tap",
-      "image": "/public/portfolio/mole.PNG",
+      "image": "/portfolio/mole.PNG",
       "shortDescription": "Browser-based game where players tap on moles to score points.",
       "fullDescription": "Mole Hole Tap A browser-based game built with HTML, CSS, and JavaScript. Players tap on moles popping out of holes within a time limit to score points. The game features dynamic mole appearances, responsive design, and interactive animations for an engaging, real-time gaming experience. It also includes score tracking and increasing difficulty levels to challenge players and enhance replayability.",
       "technologies": [
-        { "name": "HTML", "icon": "/public/skills/html.png" },
-        { "name": "CSS", "icon": "/public/skills/css.png" },
-        { "name": "JavaScript", "icon": "/public/skills/js.png" }
+        { "name": "HTML", "icon": "/skills/html.png" },
+        { "name": "CSS", "icon": "/skills/css.png" },
+        { "name": "JavaScript", "icon": "/skills/js.png" }
       ],
       "liveUrl": "https://mole-hole-tap.netlify.app/",
       "githubUrl": "https://github.com/SamyakMdr/simple_games",
@@ -171,14 +171,14 @@
     {
       "id": 7,
       "title": "Culinary Arts",
-      "image": "../../public/portfolio/Capture-1.JPG",
+      "image": "/portfolio/Capture-1.JPG",
       "shortDescription": "A visually engaging website for Culinary Arts, featuring a slideshow, recipes, articles, and navigation for food enthusiasts.",
       "fullDescription": "This paper presents the Culinary Arts Website, a lively and easy-to-use website about food recipes and related content, complete with photo galleries to accompany them. It is designed with a great view for aestheticism, functionality, food lovers, and professionals in mind-not forgetting browsers who wander in by chance.",
       "technologies": [
-        { "name": "HTML", "icon": "/public/skills/html.png" },
-        { "name": "CSS", "icon": "/public/skills/css.png" },
-        { "name": "JavaScript", "icon": "/public/skills/js.png" },
-        { "name": "JQuery", "icon": "/public/skills/jquery.png" }
+        { "name": "HTML", "icon": "/skills/html.png" },
+        { "name": "CSS", "icon": "/skills/css.png" },
+        { "name": "JavaScript", "icon": "/skills/js.png" },
+        { "name": "JQuery", "icon": "/skills/jquery.png" }
       ],
       "liveUrl": "https://samyakmdr.github.io/website/project%204/Culinaryarts.html",
       "githubUrl": "https://github.com/SamyakMdr/website/tree/main/project%204",

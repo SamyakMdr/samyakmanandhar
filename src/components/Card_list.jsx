@@ -27,7 +27,7 @@ const Card_list = ({ onSelect }) => {
   }
 
   return (
-    <div className="flex flex-col gap-2 overflow-y-auto max-h-[600px]">
+    <div className="flex flex-col gap-2 max-h-[600px]">
       {rows.map((row, rowIndex) => (
         <div
           key={rowIndex}
