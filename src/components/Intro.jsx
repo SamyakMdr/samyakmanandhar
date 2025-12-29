@@ -64,7 +64,7 @@ const Intro = () => {
               </button>
             </Link>
             <a
-              href="/public/SamyakManandhar.pdf"
+              href="public/SamyakManandhar.pdf"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-block"
